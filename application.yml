@@ -4,7 +4,7 @@ hospital:
   hotline: 1234567
   er-hotline: 7654321
   website: exist.com.ph
-  logo: /resources/img/logo.png
+  logo: /css/images/logos/login_logo.png
 
 billing:
   senior-discount-rate: 20%
