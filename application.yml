@@ -4,7 +4,7 @@ hospital:
   hotline: 1234567
   er-hotline: 7654321
   website: exist.com.ph
-  logo: https://pbs.twimg.com/profile_images/719896384669769729/vhJ6jDTP.jpg
+  logo: https://github.com/erx-medcurial/config-server/blob/master/logo.png?raw=true
   
 billing:
   senior-discount-rate: 20%
