@@ -9,6 +9,12 @@ hospital:
 billing:
   senior-discount-rate: 20%
   pwd-discount-rate: 20%
+  room:
+    charge:
+      cutoff: 0 45 11,23 * * ?
+  quantity:
+    multiplier:
+      deposit: 2
 
 clinical:
   document-locking:
