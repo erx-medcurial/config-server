@@ -11,7 +11,7 @@ billing:
   pwd-discount-rate: 20%
   room:
     charge:
-      cutoff: 0 * * ? * *
+      cutoff: 0 45 11,23 * * ?
   quantity:
     multiplier:
       deposit: 2
