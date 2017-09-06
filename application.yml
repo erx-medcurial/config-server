@@ -18,5 +18,5 @@ billing:
 
 clinical:
   document-locking:
-    discharge-summary: .10
+    discharge-summary: 1
 
